@@ -1,0 +1,38 @@
+﻿BaseUrl: "https://agchen28.github.io/"
+LanguageCode: "zh-cn"
+Title: "blog"
+menu:
+  main:
+      - Name: "首页"
+        Weight: 1
+        URL: "/"
+      - Name: "分类"
+        Weight: 2
+        Children: 
+            - Name: "c"
+              Weight: 2
+              URL: "/"
+      - Name: "关于"
+        Weight: 100
+        URL: "/about"
+
+Params:
+  Author: "Edison Chen"
+  ShowRelatedPost: True
+  SyntaxHighlightTheme: "github.min.css"
+  dateformat: "2006年01月02日"
+  readMore: false
+  section: false
+  articleFooter: false
+  latests: true
+  showCategory: true
+  Summary: false
+
+Indexes:
+  tag: "tags"
+  category: "categories"
+
+permalinks:
+  post: /blog/:slug/
+  
+MetadataFormat: "yaml"
