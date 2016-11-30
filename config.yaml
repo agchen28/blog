@@ -6,12 +6,12 @@ menu:
       - Name: "首页"
         Weight: 1
         URL: "/"
-      - Name: "分类"
+      - Name: "正经的"
         Weight: 2
-        Children: 
-            - Name: "c"
-              Weight: 2
-              URL: "/"
+        URL: "/categories/正经的/"
+      - Name: "捡垃圾"
+        Weight: 3
+        URL: "/categories/捡垃圾/"
       - Name: "关于"
         Weight: 100
         URL: "/about"
@@ -31,7 +31,6 @@ Params:
 Indexes:
   tag: "tags"
   category: "categories"
-
 permalinks:
   post: /blog/:slug/
   
