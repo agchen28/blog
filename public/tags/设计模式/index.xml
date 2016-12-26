@@ -2,91 +2,11 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>EdisonChen Blog</title>
-    <link>https://agchen28.github.io/index.xml</link>
+    <link>https://agchen28.github.io/tags/%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F/index.xml</link>
     <description>Recent content on EdisonChen Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Wed, 30 Nov 2016 21:37:42 +0800</lastBuildDate>
-    <atom:link href="https://agchen28.github.io/index.xml" rel="self" type="application/rss+xml" />
-    
-    <item>
-      <title>螺丝刀</title>
-      <link>https://agchen28.github.io/blog/%E8%9E%BA%E4%B8%9D%E5%88%80/</link>
-      <pubDate>Wed, 30 Nov 2016 21:37:42 +0800</pubDate>
-      
-      <guid>https://agchen28.github.io/blog/%E8%9E%BA%E4%B8%9D%E5%88%80/</guid>
-      <description>
-
-&lt;h3 id=&#34;晒几张图&#34;&gt;晒几张图&lt;/h3&gt;
-
-&lt;p&gt;&lt;img src=&#34;https://agchen28.github.io/imgs/lsd/1.jpg&#34; alt=&#34;&#34; /&gt;
-&lt;img src=&#34;https://agchen28.github.io/imgs/lsd/3.jpg&#34; alt=&#34;&#34; /&gt;
-&lt;img src=&#34;https://agchen28.github.io/imgs/lsd/4.jpg&#34; alt=&#34;&#34; /&gt;
-&lt;img src=&#34;https://agchen28.github.io/imgs/lsd/5.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;22合一。
-还可以伸缩。
-观望好久了，79块大洋入的，现在应该没有这个价了。
-跟九块九包邮的手感真的是差好多。
-以后就靠这个吃饭了，准备改行捡垃圾。&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>捡cpu</title>
-      <link>https://agchen28.github.io/blog/%E6%8D%A1cpu/</link>
-      <pubDate>Tue, 29 Nov 2016 22:37:30 +0800</pubDate>
-      
-      <guid>https://agchen28.github.io/blog/%E6%8D%A1cpu/</guid>
-      <description>
-
-&lt;h3 id=&#34;需求&#34;&gt;需求&lt;/h3&gt;
-
-&lt;p&gt;笔记本的U是T6670。
-主要参数：双核，2.2GHz，2M二缓，TDP35W。
-平时使用倒也没有遇到什么瓶颈，主要需求就是闲得蛋疼瞎折腾。
-先上一张鲁大娘。
-&lt;img src=&#34;https://agchen28.github.io/imgs/t9600/ludashi.jpg&#34; width = &#34;700&#34; height = &#34;500&#34; align=center /&gt;&lt;/p&gt;
-
-&lt;h3 id=&#34;方案&#34;&gt;方案&lt;/h3&gt;
-
-&lt;p&gt;先看插槽和芯片组，虽然看不太懂，不过插槽类型一定要一样。&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;同系列升级，省心方便。只看T9系列，可以考虑的有T9900、T9800、T9600等。
-这几个除了主频之外都是一样的规格，6M二缓，主频逐级提升，价格也随之提高。
-特别是T9900，作为该系列最顶级的U，这么多年过去了居然还敢卖三百块，简直太奸商了。&lt;/li&gt;
-&lt;li&gt;P系列。也只看最顶级的P9系列，P9700、P9600等。
-跟T系列差不多的规格，该系列特点就是低温低功耗，P9600的TDP就25W。
-强烈推荐，特别是考虑到功耗和散热问题。
-当然同主频的价格就比T系列高得多，这两个到现在也还要一两百。&lt;/li&gt;
-&lt;li&gt;升四核。Q9000、Q9100、QX9300。
-这几个应该是属于传说中的胶水四核，不过好歹也是四核。Q9100和QX9300有12M二缓。缺点高温高功耗。最大的缺点——贵。
-四核真的非常诱人不过不确定装上去是否可以用，即使可以用散热估计也吃不消而且还要考虑到功耗的问题。&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h3 id=&#34;实施&#34;&gt;实施&lt;/h3&gt;
-
-&lt;p&gt;最后，既贪心又抠门的我还是纠结地选择了主频高价格低的T系列。
-咬牙掏了七十几块大洋捡了个T9600。2.8GHz主频，6M二缓，相对之前的提升应该还是挺明显的。
-之所以没上T9800和T9900是因为不能让奸商得逞。性价比不高。
-晒张照。
-&lt;img src=&#34;https://agchen28.github.io/imgs/t9600/t9600.jpg&#34; width = &#34;612&#34; height = &#34;816&#34; alt=&#34;t9600&#34; align=center /&gt;&lt;/p&gt;
-
-&lt;p&gt;手上拿的这个就是T9600，下面那块沾满翔的就是老战友T6670。
-搞定之后再跑一张鲁大娘。
-&lt;img src=&#34;https://agchen28.github.io/imgs/t9600/ludashi1.jpg&#34; width = &#34;700&#34; height = &#34;500&#34; align=center /&gt;&lt;/p&gt;
-
-&lt;p&gt;瞬间秒杀全国百分之九的用户，还带动了其他配件性能的提升。
-先来两把实况8爽一爽。&lt;/p&gt;
-
-&lt;h3 id=&#34;反馈&#34;&gt;反馈&lt;/h3&gt;
-
-&lt;p&gt;平时使用中CPU满载的话温度会偏高，正好冬天来了可以暖手。
-看来五块钱一罐的硅脂有点不够用，还得加钱上好一点的。
-后悔没上P系列，不过庆幸没上T9900或者升四核。&lt;/p&gt;
-</description>
-    </item>
+    <atom:link href="https://agchen28.github.io/tags/%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>单例模式</title>
@@ -250,42 +170,6 @@
 
 &lt;p&gt;好像写得有点多了，我自己回头看了一下都有点眼花了。
 其实扯了这么多都没什么卵用，一句话总结就是：能用类型构造器实现就用类型构造器，真正有需要再考虑双检锁。&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>about</title>
-      <link>https://agchen28.github.io/about/</link>
-      <pubDate>Thu, 27 Oct 2016 11:57:58 +0800</pubDate>
-      
-      <guid>https://agchen28.github.io/about/</guid>
-      <description>
-
-&lt;h3 id=&#34;关于我&#34;&gt;关于我&lt;/h3&gt;
-
-&lt;ul&gt;
-&lt;li&gt;宅男&lt;/li&gt;
-&lt;li&gt;屌丝&lt;/li&gt;
-&lt;li&gt;垃圾佬&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h3 id=&#34;关于博客&#34;&gt;关于博客&lt;/h3&gt;
-
-&lt;ul&gt;
-&lt;li&gt;写关于技术的内容着实令我诚惶诚恐（以我这混口饭吃的技术水平）&lt;/li&gt;
-&lt;li&gt;除了技术之外还会会记录一些我认为有趣的事，什么乱七八糟的都会有&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h3 id=&#34;联系方式&#34;&gt;联系方式&lt;/h3&gt;
-
-&lt;ul&gt;
-&lt;li&gt;email：agchen28@163.com&lt;/li&gt;
-&lt;li&gt;qq：287099626&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h3 id=&#34;放张照引狼&#34;&gt;放张照引狼&lt;/h3&gt;
-
-&lt;p&gt;&lt;img src=&#34;https://agchen28.github.io/imgs/about/me.jpg&#34; width = &#34;320&#34; height = &#34;426&#34; alt=&#34;me&#34; align=center /&gt;&lt;/p&gt;
 </description>
     </item>
     
