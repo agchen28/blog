@@ -1,10 +1,18 @@
 ---
 date: 2016-12-27T21:50:53+08:00
 draft: true
-title: ILDasm
+title: IL
 tags: [".NET基础"]
 categories: ["正经的"]
 ---
+
+与CPU无关的机器语言（基于栈，没有直接操作寄存器的指令，对底层CPU抽象）
+计算机没有办法直接执行，必须托管给CLR执行，所以又称托管代码（managed code）
+比大多数CPU机器语言都高级，是一种面向对象的机器语言。
+以二进制的形式存在
+可以用IL汇编语言编写IL
+ILAsm.exe(IL汇编器)
+ILDasm.exe（IL反汇编器）
 
 ### VS添加ILDASM外部工具
 打开工具——>外部工具，点添加标题自己命名，命令输入ildasm.exe所在目录。  
