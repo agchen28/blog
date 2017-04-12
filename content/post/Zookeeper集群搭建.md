@@ -77,7 +77,7 @@ zookeeper文件内容：
 #description:zookeeper
 #processname:zookeeper
 
-ZOOKEEPER_PATH=/usr/appdata/zookeeper-3.4.6/bin/
+ZOOKEEPER_PATH=/opt/zookeeper/zookeeper-3.4.6/bin/
 
 case $1 in
           start) su root ${ZOOKEEPER_PATH}/zkServer.sh start;;

@@ -50,7 +50,7 @@ jps
 ```
 touch kafkastart.sh  #创建启动脚本
 chmod +x kafkastart.sh  #添加执行权限
-vi /etc/rc.d/rc.local   #最后一行添加：sh /opt/kafka/kafkastart.sh & 
+vim /etc/rc.d/rc.local   #最后一行添加：sh /opt/kafka/kafkastart.sh & 
 ```
 启动脚本内容：
 ```
