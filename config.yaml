@@ -6,9 +6,9 @@ menu:
       - Name: "首页"
         Weight: 1
         URL: "/"
-      - Name: "正经的"
+      - Name: "技术相关"
         Weight: 2
-        URL: "/categories/正经的/"
+        URL: "/categories/技术相关/"
       - Name: "捡垃圾"
         Weight: 3
         URL: "/categories/捡垃圾/"
