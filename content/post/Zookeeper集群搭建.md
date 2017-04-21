@@ -1,6 +1,6 @@
 ---
-date: 2017-03-28T22:28:31+08:00
-draft: true
+date: 2017-01-28T22:28:31+08:00
+draft: false
 tags: ["备忘"]
 categories: ["技术相关"]
 title: Zookeeper集群搭建

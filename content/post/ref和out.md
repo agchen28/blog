@@ -3,7 +3,7 @@ date: 2017-01-17T22:16:37+08:00
 draft: true
 title: ref和out
 tags: [".NET基础"]
-categories: ["正经的"]
+categories: ["技术相关"]
 ---
 
 作用：以引用的方式向方法传递参数

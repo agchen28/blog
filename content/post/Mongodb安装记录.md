@@ -1,6 +1,6 @@
 ---
-date: 2017-04-08T11:05:10+08:00
-draft: true
+date: 2017-02-08T11:05:10+08:00
+draft: false
 tags: ["备忘"]
 categories: ["技术相关"]
 title: Mongodb安装记录

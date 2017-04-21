@@ -1,6 +1,6 @@
 ---
-date: 2017-04-04T23:30:07+08:00
-draft: true
+date: 2017-02-04T23:30:07+08:00
+draft: false
 tags: ["备忘"]
 categories: ["技术相关"]
 title: Storm集群搭建
