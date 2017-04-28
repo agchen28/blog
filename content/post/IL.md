@@ -2,8 +2,8 @@
 date: 2016-12-27T21:50:53+08:00
 draft: true
 title: IL
-tags: [".NET基础"]
-categories: ["正经的"]
+tags: [".NET"]
+categories: ["技术相关"]
 ---
 
 与CPU无关的机器语言（基于栈，没有直接操作寄存器的指令，对底层CPU抽象）

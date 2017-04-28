@@ -1,7 +1,9 @@
 ---
 date: 2017-04-21T16:11:52+08:00
-draft: true
-title: Storm的Topology执行流程
+draft: false
+tags: ["storm"]
+categories: ["技术相关"]
+title: Storm中Topology的执行过程
 ---
 
 Topology运行流程
