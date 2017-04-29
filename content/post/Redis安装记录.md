@@ -23,6 +23,7 @@ mkdir /etc/redis
 cp redis.conf /etc/redis/6379.conf
 ```
 - 修改配置文件
+
 ```
 bind:ip地址
 port：端口号。默认6379
@@ -30,10 +31,13 @@ requirepass:设置密码
 slaveof：从服务器需要配置
 masterauth：主服务器的密码
 ```
+
 - 将启动脚本复制到/etc/init.d目录下，本例将启动脚本命名为redisd（通常都以d结尾表示是后台自启动服务）。
+
 ```
 cp redis_init_script /etc/init.d/redisd
 ```
+
 - 设置为开机自启动  
 在启动脚本开头添加如下两行注释以修改其运行级别
 ```
@@ -51,6 +55,7 @@ service redisd stop
 ```
 
 ### 检测
+
 ```
 ps -ef |grep redis  #检测后台进程是否存在
 netstat -lntp | grep 6379   #检测6379端口是否在监听
