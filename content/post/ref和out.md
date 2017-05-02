@@ -2,7 +2,7 @@
 date: 2017-01-17T22:16:37+08:00
 draft: true
 title: ref和out
-tags: [".NET"]
+tags: ["dotnet"]
 categories: ["技术相关"]
 ---
 

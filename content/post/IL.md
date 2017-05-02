@@ -2,7 +2,7 @@
 date: 2016-12-27T21:50:53+08:00
 draft: true
 title: IL
-tags: [".NET"]
+tags: ["dotnet"]
 categories: ["技术相关"]
 ---
 

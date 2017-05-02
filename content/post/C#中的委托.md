@@ -1,7 +1,7 @@
 ---
 date: 2016-11-26T09:33:54+08:00
 draft: false
-tags: [".NET"]
+tags: ["dotnet"]
 categories: ["技术相关"]
 title: CSharp中的委托
 ---

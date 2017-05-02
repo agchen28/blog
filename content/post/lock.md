@@ -1,7 +1,7 @@
 ---
 date: 2017-01-28T16:24:53+08:00
 draft: false
-tags: [".NET"]
+tags: ["dotnet"]
 categories: ["技术相关"]
 title: lock
 ---
