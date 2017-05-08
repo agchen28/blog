@@ -3,7 +3,7 @@ date: 2017-02-23T11:05:53+08:00
 draft: false
 tags: ["dotnet"]
 categories: ["技术相关"]
-title: .NET程序执行过程
+title: dotnet程序执行过程
 ---
 ### 码几行代码
 ```csharp
