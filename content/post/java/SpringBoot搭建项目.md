@@ -1,7 +1,7 @@
 ---
 date: 2016-10-09T13:04:32+08:00
 draft: false
-tags: ["java","spring"]
+tags: ["java"]
 categories: ["技术相关"]
 title: SpringBoot搭建项目
 ---

@@ -1,7 +1,7 @@
 ---
 date: 2017-02-11T16:11:52+08:00
 draft: false
-tags: ["storm"]
+tags: ["备忘"]
 categories: ["技术相关"]
 title: Storm中Topology的执行过程
 ---
