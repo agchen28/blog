@@ -25,8 +25,8 @@ internal class Feedback : System.MulticastDelegate{
 ```
 所有的委托类型都派生自MulticastDelegate，MulticastDelegate又派生自System.Delegate。MulticastDelegate有三个最重要的非公共字段。  
 
-- _target    Oject类型     指出方法的对象，如果是静态方法置为null。
-
-- _methodPtr    IntPtr类型    一个内部的整数值，CLR用它标识要回调的方法。
-
-- _invocationList    Object类型    该字段通常为null。构造委托链时它引用一个委托数组。
+| 名称             | 类型           | 说明                                       |
+| --------------- |:-------------:| ------------------------------------------ |
+| _target         | Oject         | 指出方法的对象，如果是静态方法置为null。         |
+| _methodPtr      | IntPtr        | 一个内部的整数值，CLR用它标识要回调的方法。       |
+| _invocationList | Object        | 该字段通常为null。构造委托链时它引用一个委托数组。 |
